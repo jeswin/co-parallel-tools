@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Jeswin Kumar",
+    "email": "jeswinpk@agilehead.com"
+  },
+  "name": "co-parallel-tools",
+  "version": "0.1.0",
+  "description": "A wrapper that makes debugging parallel tasks easier by scheduling them sequentially if a debug flag is set.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeswin/co-parallel-tools.git"
+  },
+  "main": "lib/co-parallel-tools",
+  "engines": {
+    "node": ">= 0.11.9"
+  },
+  "keywords": [
+    "co", "parallel"
+  ],
+  "license": "GPL-3.0+"
+}
